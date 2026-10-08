@@ -1,0 +1,12 @@
+build/
+*.o
+*.a
+*.dylib
+*.so
+*.dll
+*.lib
+*.exe
+.DS_Store
+.vscode/
+.idea/
+app_static
